@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Demo STM32F4x7 Ethernet</title>  
+</head>
+<meta http-equiv="refresh" content="1">
+<body text="#000000" bgcolor="#ffffff"><center>
+<body text="#3333FF" bgcolor="#000000" link="#3333FF" alink="#3333FF" vlink="#3333FF">
+<font size="+3"color="#3333FF"><b><i>STM32F4x7 Webserver Demo</i></b></font><br>
+<font size="+2"color="#3333FF"><b><i>Прием данных</i></b></font><br>
+<hr noshade width="100%" align="left"> 
+<a href = "index.html" title = "Ссылка"><em>Главная</em></a>&nbsp;&nbsp;&nbsp;
+<a href = "STM32F4x7Tx.html" title = "Ссылка"><em>Передача данных</em></a>&nbsp;&nbsp;&nbsp;
+<a href = "STM32F4x7Rx.shtml" title = "Ссылка"><em>Текущая страница</em></a><BR>
+<hr noshade width="100%" align="left">
+</center>
+<h5>Данные</h5><P>
+<pre>
+<!--#t-->
+</pre>
+</BODY>
+<hr noshade width="100%" align="left">
+</HTML>   
